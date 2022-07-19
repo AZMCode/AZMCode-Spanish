@@ -18,8 +18,8 @@ Here's a selection of some of my favorites:
  - [RPNCalc](https://github.com/AZMCode/rpncalc)
    - A scripting/calculation library written in Rust, with both a functioning TUI, editor syntax highlighting, and a slightly lackluster PWA. Written entirely in Rust. Even the web app.
  - [asdf-jq](https://github.com/asdf-jq)
-   - A FOSS project I rewrote then eventually became the owner of its primary fork, for (asdf-vm)(https://github.com/asdf-vm/asdf). Written entirely in Bash.
- - [Bitshift Variations Humanized][https://github.com/Bitshift-variations-humanized]
+   - A FOSS project I rewrote then eventually became the owner of its primary fork, for [asdf-vm](https://github.com/asdf-vm/asdf). Written entirely in Bash.
+ - [Bitshift Variations Humanized](https://github.com/Bitshift-variations-humanized)
    - A de-obfuscation, rewriting, and reencoding to midi format of a Code Golf snippet that plays music, [originally written by Robert Miles](https://www.youtube.com/watch?v=MqZgoNRERY8). Written entirely in Rust.
  - [Git-Credential-Bw](https://github.com/AZMCode/git-credential-bw)/[Git-Credential-Bw-Shell](https://github.com/AZMCode/git-credential-bw-shell)
    - A typescript/nodejs | bash implementation of a Git Credential Helper for the Bitwarden Password Manager
