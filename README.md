@@ -22,4 +22,4 @@ Here's a selection of some of my favorites:
  - [Bitshift Variations Humanized](https://github.com/Bitshift-variations-humanized)
    - A de-obfuscation, rewriting, and reencoding to midi format of a Code Golf snippet that plays music, [originally written by Robert Miles](https://www.youtube.com/watch?v=MqZgoNRERY8). Written entirely in Rust.
  - [Git-Credential-Bw](https://github.com/AZMCode/git-credential-bw)/[Git-Credential-Bw-Shell](https://github.com/AZMCode/git-credential-bw-shell)
-   - A typescript/nodejs | bash implementation of a Git Credential Helper for the Bitwarden Password Manager
+   - A typescript/nodejs or bash implementation, respectively,  of a Git Credential Helper for the Bitwarden Password Manager
