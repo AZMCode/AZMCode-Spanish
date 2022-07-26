@@ -1,4 +1,4 @@
-# Hello there.
+# Hola!
 ### [English Version](azmcode.dev)
 
 Soy un tipo que le encanta programar.
