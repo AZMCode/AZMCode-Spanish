@@ -7,8 +7,8 @@ No hay mucho más que eso aquí.
 # Lo que sé
 Conozco y amo Rust, Typescript y Deno. Además tengo experiencia con Node.JS, el navegador, Electron, y Javascript en general.
 También tengo experiencia con C, C++, C# y Python, pero un poco menos
-A veces trabajo paraprojectos FOSS para hacer mi vida y la de otros aunque sea sólo un poquito mejor.
-Me interesa enormemente le Criptografía y sus posibilidades.
+A veces trabajo para projectos FOSS para hacer mi vida y la de otros aunque sea sólo un poquito mejor.
+Me interesa enormemente la Criptografía y sus posibilidades.
 
 # Contacto
 Puedes contactarme por mi correo: adrianozambrana@protonmail.com
@@ -20,7 +20,7 @@ Aquí hay algunos de mis favoritos:
 
  - [RPNCalc](https://github.com/AZMCode/rpncalc)
    - Una libraría, lenguaje, TUI y WebApp para cálculos en Notación Polaca Inversa, todo en Rust. Incluso la WebApp.
- - [asdf-jq](https://github.com/asdf-jq)
+ - [asdf-jq](https://github.com/AZMCode/asdf-jq)
    - Un projecto FOSS que reescribí y eventualmente empezé a mantener para el administrador de versiones [asdf-vm](https://github.com/asdf-vm/asdf). Escrito enteramente en Bash.
  - [Bitshift Variations Humanized](https://github.com/Bitshift-variations-humanized)
    - De-ofuscación, reescritura, y recodificación a formato MIDI de un programa de Code Golf que produce una canción, [Originalmente escrito por Robert Miles](https://www.youtube.com/watch?v=MqZgoNRERY8). Written entirely in Rust.
