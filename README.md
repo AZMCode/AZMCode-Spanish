@@ -1,5 +1,5 @@
 # Hola!
-### [English Version](https://azmcode.dev)
+### [English Version](https://azmcode.github.io/AZMCode)
 
 Soy un tipo que le encanta programar.
 No hay mucho más que eso aquí.
